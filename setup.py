@@ -10,6 +10,7 @@ setup(
         'humanize',
         'click',
         'tqdm',
+        'transliterate',
     ],
     entry_points='''
         [console_scripts]
